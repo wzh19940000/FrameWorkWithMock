@@ -1,0 +1,6 @@
+{
+    "id": "uid",
+    "watch": true,
+    "snapshots": "./mock",
+    "delay": 200
+}
